@@ -24,3 +24,7 @@
 ## Checklist
 
 [Designers checklists](http://adrien-heury.net/designers-checklists/)
+
+## Typographie
+
+[TypoGuide](http://www.typogui.de/)
