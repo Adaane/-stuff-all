@@ -7,3 +7,7 @@
 ## Blogging 
 
 [ Ghost ](https://ghost.org/)
+
+## Emmet 
+
+[Editing HTML Like A Boss In VS Code](https://vimeo.com/445554082/bbe9baee2d)
