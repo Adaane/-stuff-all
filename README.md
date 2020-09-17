@@ -14,3 +14,13 @@
 ## Youtube Tuto Dev
 
 [DevTips](https://www.youtube.com/c/DevTipsForDesigners/videos)
+
+# Design
+
+## MockUp
+
+[best-device-mockups-for-apps](https://onextrapixel.com/best-device-mockups-for-apps/)
+
+## Checklist
+
+[Designers checklists](http://adrien-heury.net/designers-checklists/)
